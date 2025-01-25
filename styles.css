@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #E8F5E9; /* Light green background */
+    background-color: #E8F5E9;
     color: #333;
 }
 
 header {
-    background: #4A90E2; /* Soft blue */
+    background: #4A90E2;
     color: #fff;
     padding: 15px 0;
 }
@@ -32,11 +32,11 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #B2EBF2; /* Light cyan */
+    color: #B2EBF2;
 }
 
 .about {
-    background: #BBDEFB; /* Light blue */
+    background: #BBDEFB;
     padding: 30px;
     margin: 20px;
     border-radius: 10px;
@@ -59,7 +59,7 @@ h1, h2, h3 {
 
 .project {
     margin-bottom: 30px;
-    background: #C5CAE9; /* Light purple */
+    background: #C5CAE9;
     padding: 15px;
     border-radius: 10px;
 }
@@ -71,7 +71,7 @@ h1, h2, h3 {
 }
 
 .project3 {
-    max-width: 70%; /* Adjusted size for Project 3 */
+    max-width: 70%;
     height: auto;
     border-radius: 10px;
 }
@@ -100,7 +100,7 @@ h1, h2, h3 {
 footer {
     text-align: center;
     padding: 20px;
-    background: #4A90E2; /* Soft blue */
+    background: #4A90E2;
     color: #fff;
 }
 
